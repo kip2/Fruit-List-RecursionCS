@@ -3,24 +3,24 @@
         "name": "Orange",
         "calorie": "46kcal/100g",
         "macro": "P 11.8g F 0.1g C 0.9g",
-        "path": "../img/orange.jpg"
+        "path": "./img/orange.jpg"
     },
     {
         "name": "Apple",
         "calorie": "57kcal/100g",
         "macro": "P 15.5g F 0.2g C 0.1g",
-        "path": "../img/apple.jpg"
+        "path": "./img/apple.jpg"
     },
     {
         "name": "Kiwi fruit",
         "calorie": "53kcal/100g",
         "macro": "P 13.5g F 0.1g C 1.0g",
-        "path": "../img/kiwi.jpg"
+        "path": "./img/kiwi.jpg"
     },
     {
         "name": "Peach",
         "calorie": "40kcal/100g",
         "macro": "P 10.2g F 0.1g C 0.6g",
-        "path": "../img/peach.jpg"
+        "path": "./img/peach.jpg"
     }
 ]

@@ -7,6 +7,26 @@ module.exports = {
 		filename: "bundle.js"
 	},
 	module: {
-		rules: [{ test: /\.js$/, exclude: /node_modules/, loader: "babel-loader"}]
+		rules: [
+			{ 
+				test: /\.js$/, 
+				exclude: /node_modules/, 
+				loader: "babel-loader"
+			},
+			{
+				test: /\.css$/,
+				use: [
+					"style-loader",
+					{
+						loader: "css-loader",
+						options: {
+							modules: {
+								localIdentName: "[name]__[local]___[hash:base64:5]",
+							},
+						},
+					},
+				],
+			},
+		]
 	}
 };
