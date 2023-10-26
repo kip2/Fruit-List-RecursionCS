@@ -6,8 +6,10 @@ ReacursionCS Reactの課題
 
 Reactを用いてFruit Listのサイトを作成する
 
+![イメージ画像](doc/image.png)
+
 # アクセス
 
 以下のURLからアクセスできます
 
-https://kip2.github.io/Fruit-List-RecursionCS
+[アクセス！](https://kip2.github.io/Fruit-List-RecursionCS)
