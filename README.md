@@ -1,6 +1,6 @@
 # Fruit-List-RecursionCS
 
-ReacursionCS Reactの課題
+ReacursionCS React科目の課題
 
 # 概要
 
