@@ -1,5 +1,27 @@
 .card {
-    width: 200px;
+    width: 250px;
+    border: solid 2px #b4b4b4;
+    border-radius: 8px;
+    padding: 20px;
+    transition: tarnsform 0.3s;
+}
+
+.card:hover {
+    transform: scale(1.10);
+    filter: brightness(80%);
+    border-color: #94b5d8;
+}
+
+.container {
+    display: flex;
+    gap: 150px;
+    flex-wrap: wrap;
+    padding-top: 80px;
+}
+
+.card img {
+    width: 250px;
+    border: solid 0.5px #0e0e0e;
 }
 
 .title{
