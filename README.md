@@ -12,4 +12,4 @@ Reactを用いてFruit Listのサイトを作成する
 
 以下のURLからアクセスできます
 
-[アクセス！](https://kip2.github.io/Fruit-List-RecursionCS)
+[Fruit List Site](https://kip2.github.io/Fruit-List-RecursionCS)
