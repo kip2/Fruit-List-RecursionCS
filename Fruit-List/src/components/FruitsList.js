@@ -1,10 +1,11 @@
 import React from "react";
 import Card from "./Card";
 
-export default function FruitList() {
+export default function FruitList({ fruitList }) {
     return(
         <>
-            <Card />
+            <h1>Fruit List</h1>
+            <Card fruitList={fruitList}/>
         </>
     );
 }
