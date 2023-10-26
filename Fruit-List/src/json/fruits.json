@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Orange",
+        "Calorie": "46kcal/100g",
+        "Macro": "P 11.8g F 0.1g C 0.9g"
+    },
+    {
+        "name": "Apple",
+        "Calorie": "57kcal/100g",
+        "Macro": "P 15.5g F 0.2g C 0.1g"
+    },
+    {
+        "name": "Kiwi fruit",
+        "Calorie": "53kcal/100g",
+        "Macro": "P 13.5g F 0.1g C 1.0g"
+    },
+    {
+        "name": "Peach",
+        "Calorie": "40kcal/100g",
+        "Macro": "P 10.2g F 0.1g C 0.6g"
+    }
+]
