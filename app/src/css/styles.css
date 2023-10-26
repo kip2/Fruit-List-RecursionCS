@@ -3,6 +3,7 @@
     border: solid 2px #b4b4b4;
     border-radius: 8px;
     padding: 20px;
+    margin-bottom: 80px;
     transition: tarnsform 0.3s;
 }
 
@@ -14,8 +15,8 @@
 
 .container {
     display: flex;
-    gap: 150px;
     flex-wrap: wrap;
+    justify-content: space-between;
     padding-top: 80px;
 }
 
